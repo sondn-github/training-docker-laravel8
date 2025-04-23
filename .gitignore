@@ -154,3 +154,5 @@ docs/_book
 test/
 
 # End of https://www.toptal.com/developers/gitignore/api/laravel,phpstorm,vscode,vue
+
+# Test
